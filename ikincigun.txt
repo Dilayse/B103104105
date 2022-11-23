@@ -2,6 +2,11 @@ dila
 ikinci gun
 
 ucuncu gun
+<<<<<<< HEAD
 Ikinci gun DILA branch i deneme
 
 dila branch ikinci deneme
+=======
+Master Branch deneme
+>>>>>>> master
+doldurduk
